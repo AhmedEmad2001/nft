@@ -57,7 +57,7 @@ body{
     background-repeat: no-repeat;
     background-position: center;
 }
-.main .contant:hover .active{
+.main .fig-1:hover ~ .active{
     opacity: 0.5;
     display: block;
     background-color: var(--Cyan);
